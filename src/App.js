@@ -24,7 +24,7 @@ function App() {
       {step === 0 && (
         <div className="min-h-screen w-full flex flex-col items-center justify-center bg-gradient-to-tr from-red-600 via-pink-500 to-purple-600">
           <div className={containerClass}>
-            <h1 className={headingClass}>Hey My Love, click the button for a surprise! ❤️👁️‍🗨️👨🏿‍❤️‍💋‍👨🏻</h1>
+            <h1 className={headingClass}>Hey My Shona Putrr, click the button for a surprise !! 🥺👨‍🍼🧿</h1>
             <button className={buttonClass} onClick={handleNextStep}>Click Me 🤍</button>
           </div>
         </div>
@@ -34,7 +34,7 @@ function App() {
         <div className="relative w-full h-screen flex items-center justify-center">
           <img src="/image2.jpeg" alt="Background" className="absolute inset-0 w-full h-full object-cover" />
           <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-50 text-center p-4">
-            <h1 className={headingClass}>Guess what? It's your special day! 🥰🎂</h1>
+            <h1 className={headingClass}>Guess what'z it's the born out day of Mie each & everything as Even micro organisms too for This Janam'z ka 😤👨‍🍼🧿</h1>
             <button className={buttonClass} onClick={handleNextStep}>Next 💕</button>
           </div>
         </div>
@@ -46,7 +46,10 @@ function App() {
           <div className="absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-50 p-4 text-center">
             <h1 className="text-3xl sm:text-5xl md:text-6xl font-extrabold text-pink-300 drop-shadow-lg px-4">Happy Birthday, My Love! 🎉🎂💖</h1>
             <p className="mt-4 text-base sm:text-lg md:text-2xl text-white max-w-3xl px-4">
-              Wishing you a day filled with love, laughter, and all the happiness in the world! You are the most special person in my life, and I am so grateful to have you. 💕
+            Wish'in Mie Little boiiYYY a Chughu mughuu birthday with verieee muchh bugggu'ness !! 
+😤🧿
+Miee raaaaJaaaa beta !! The Day again has arrived to embark a Moment for Me to Get remind'ed as this was the Day Mie Bacha was born out For me As For This particular Janam'z 🧿
+This was the Day Mie Young Man had taken birth to make Mie Life 🥺👨‍🍼🧿
             </p>
           </div>
         </div>
